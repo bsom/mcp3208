@@ -1,17 +1,4 @@
-.. figure:: https://raw.githubusercontent.com/MomsFriendlyRobotCompany/MCP3208/master/docs/pics/chip.png
-    :width: 300px
-
-MCP3208
-=============
-
-.. image:: https://img.shields.io/pypi/l/mcp3208.svg
-	:target: https://github.com/MomsFriendlyRobotCompany/mcp3208
-.. image:: https://img.shields.io/pypi/pyversions/mcp3208.svg
-	:target: https://github.com/MomsFriendlyRobotCompany/mcp3208
-.. image:: https://img.shields.io/pypi/wheel/mcp3208.svg
-	:target: https://github.com/MomsFriendlyRobotCompany/mcp3208
-.. image:: https://img.shields.io/pypi/v/mcp3208.svg
-	:target: https://github.com/MomsFriendlyRobotCompany/mcp3208
+EDITED BY bsom FOR USE WITH mxmxmx's TERMINAL TEDIUM
 
 This is a python library designed to work with the MCP3208 ADC using SPI on a Raspberry Pi. The MCP3208 is capable of:
 

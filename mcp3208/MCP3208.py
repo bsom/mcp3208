@@ -19,8 +19,8 @@ except ImportError:
 
 class MCP3208(object):
 	def __init__(self):
-		self.spi = SPI.SpiDev(0, 0, max_speed_hz=1000000)
-		self.spi.set_mode(0)
+		self.spi = SPI.SpiDev(0, 1, max_speed_hz=4000000)
+		self.spi.set_mode(0x0)
 		self.spi.set_bit_order(SPI.MSBFIRST)
 
 	def __del__(self):
